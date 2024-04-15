@@ -1,5 +1,6 @@
 {
-  "name": "template-react",
+  "homepage": "http://siyu-ding.github.io/finalproject_579",
+  "name": "getrecipe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
